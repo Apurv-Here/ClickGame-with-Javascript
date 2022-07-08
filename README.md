@@ -1,4 +1,4 @@
-# Webiste Link - https://apurv-here.github.io/ClickGame-with-Javascript/
+# Webiste Link - https://comforting-sable-a5fa32.netlify.app/
 
 # Introduction
 This is a basic game to release stress and have some
