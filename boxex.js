@@ -25,7 +25,7 @@ function clearScores() {
     timesClicked.yellow = 0
     timesClicked.green = 0
     boxesColor.forEach(square => {
-        square.innerText = ''
+        square.innerText = 'click me'
     })
 }
 
