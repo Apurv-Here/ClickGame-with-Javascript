@@ -1,0 +1,71 @@
+* {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.topHeading {
+    padding: 0.5rem;
+    color: wheat;
+    background-color: rgb(12, 12, 44);
+}
+
+.topH1 {
+    background-color: rgb(12, 12, 44);
+}
+
+.boxesColor {
+    height: 12.5rem;
+    width: 12.5rem;
+}
+
+.topDiv {
+    margin-top: 3.125rem;
+}
+
+.centerFlex {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.wrapIt {
+    flex-wrap: wrap;
+}
+
+#redBox {
+    background-color: red;
+    margin: 4px 4px;
+    border: 2px solid #9babdd;
+}
+
+#yellowBox {
+    background-color: yellow;
+    margin: 4px 4px;
+    border: 2px solid #9babdd;
+
+}
+
+#greenBox {
+    background-color: green;
+    margin: 4px 4px;
+    border: 2px solid #9babdd;
+
+}
+
+.resetDiv {
+    margin-top: 1.5625rem;
+}
+
+#resetBtn {
+    height: 60px;
+    width: 160px;
+    /* background-color: blue; */
+    border-radius: 	1.25rem;
+    color: white;
+    
+}
+
+.fontNo {
+    font-size: 1.5625rem;
+}
